@@ -44,13 +44,3 @@ I enjoy solving problems and creating useful digital solutions.
 *(Tu pourras ajouter les liens GitHub plus tard)*
 
 ---
-
-## 📫 Contact
-
-<div align="center">
-
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=61567197475109)
-&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tsiry-randria-4737a138b)
-
-</div>
