@@ -47,10 +47,10 @@ I enjoy solving problems and creating useful digital solutions.
 
 ## 📫 Contact
 
-<a href="https://www.facebook.com/profile.php?id=61567197475109" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tsiry-randria-4737a138b" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<div align="center">
+
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=61567197475109)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tsiry-randria-4737a138b)
+
+</div>
