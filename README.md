@@ -1,54 +1,56 @@
-# Tsiry Randria
+<div align="center">
 
-Software Engineering Student | Web Development Specialist | Madagascar 🇲🇬
+# 👋 Hello, I'm Tsiry Randria  
 
----
+Software engineering student specializing in web development, based in Madagascar 🇲🇬  
 
-## Professional Profile
+![Profile Views](https://komarev.com/ghpvc/?username=TsiryRandria&color=blue)
 
-I am a dedicated software engineering student with a focus on web development technologies. My expertise spans both frontend and backend development, with a strong foundation in modern web technologies and programming languages.
-
----
-
-## Technical Expertise
-
-**Languages & Frameworks:**
-- Frontend: HTML5, CSS3, JavaScript, React
-- Backend: PHP, Python, Java
-- Database & Development Tools
-
-![Technical Stack](https://skillicons.dev/icons?i=html,css,js,react,php,python,java)
+</div>
 
 ---
 
-## GitHub Analytics
+## 🚀 Présentation
+
+Passionate about building web applications and learning modern technologies.  
+I enjoy solving problems and creating useful digital solutions.
+
+---
+
+## 🛠 Skills
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,react)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=TsiryRandria&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TsiryRandria&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsiryRandria&layout=compact&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=TsiryRandria&color=0e75b6&style=flat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsiryRandria&layout=compact)
 
 </div>
 
 ---
 
-## Professional Contact
+## 📂 Projets
 
-I am open to collaboration opportunities and professional networking.
+🔹 **NoteTask** – Application de gestion de tâches et notes numériques  
+🔹 **Plateforme éducative** – Réseau social pour l’apprentissage en ligne  
+🔹 **Mini projets web** – HTML, CSS, JavaScript, PHP  
 
-<div align="left">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tsiry-randria-4737a138b)
-[![GitHub](https://img.shields.io/badge/GitHub-TsiryRandria-181717?style=flat&logo=github)](https://github.com/TsiryRandria)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=61567197475109)
-
-</div>
+*(Tu pourras ajouter les liens GitHub plus tard)*
 
 ---
 
-<div align="center">
-<i>Open to opportunities in web development and software engineering</i>
-</div>
+## 📫 Contact
+
+<a href="https://www.facebook.com/profile.php?id=61567197475109" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tsiry-randria-4737a138b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
